@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/.idea/
+
+# Build Folder
+/EmailCrawler/obj/
+/EmailCrawler/bin/
+/EmailCrawler.Tests/obj/
+/EmailCrawler.Tests/bin/
+
+# Rider ignored files
+/.idea.EmailCrawler.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
